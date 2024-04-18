@@ -1,0 +1,14 @@
+[
+    {
+        "href": "index.html",
+        "nazivStr": "Home"
+    },
+    {
+        "href": "autor.html",
+        "nazivStr": "Author"
+    },
+    {
+        "href": "store.html",
+        "nazivStr": "Store"
+    }
+]

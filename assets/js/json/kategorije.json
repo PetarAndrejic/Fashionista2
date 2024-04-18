@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "kategorija": "Watches"
+    },
+    {
+        "id": 2,
+        "kategorija": "Shoes"
+    },
+    {
+        "id": 3,
+        "kategorija": "Accessories"
+    },
+    {
+        "id": 4,
+        "kategorija": "Home Decoration"
+    },
+    {
+        "id": 5,
+        "kategorija": "Gym Equipment"
+    },
+    {
+        "id": 6,
+        "kategorija": "Cosmetics"
+    }
+]

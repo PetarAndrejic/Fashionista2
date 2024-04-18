@@ -1,0 +1,128 @@
+[
+    {
+        "id": 1,
+        "naziv": "Casio Digital Timepiece",
+        "kategorija": 1,
+        "deskripcija":"To tell the time with.",
+        "slika":{
+            "src": "assets/img/CasioTimepiece.jpg",
+            "alt": "Casio Digital Timepiece"
+        },
+        "brojZvezdica": 3,
+        "besplatnaDostava": true,
+        "cena": {
+            "bezPopusta": 249.99,
+            "saPopustom": 179.99
+        },
+        "popust": true
+
+    },
+    {
+        "id": 2,
+        "naziv": "Nike Airmax Sunjalice",
+        "kategorija": 2,
+        "deskripcija": "Clean shoes, good for any occasion.",
+        "slika":{
+            "src": "nikesneaker.jpg",
+            "alt": "Nike Airmax Sunjalice"
+        },
+        "brojZvezdica": 5,
+        "besplatnaDostava": false,
+        "cena": {
+            "bezPopusta": 99.99,
+            "saPopustom": 99.99
+        },
+        "popust": false
+
+    },
+    {
+        "id": 3,
+        "naziv": "Rayman Cubical Shaped",
+        "kategorija": 3,
+        "deskripcija":"Not RayBan, Rayman :)",
+        "slika":{
+            "src": "assets/img/raybanke.jpg",
+            "alt": "Raybanke Cubical Shaped"
+        },
+        "brojZvezdica": 2,
+        "besplatnaDostava": true,
+        "cena": {
+            "bezPopusta": 149.99,
+            "saPopustom": 59.99
+        },
+        "popust": true
+
+    },
+    {
+        "id": 4,
+        "naziv": "Louis Vuitton Shoe",
+        "kategorija": 2,
+        "deskripcija": "Be the talk of town wearing this brand new shoe.",
+        "slika":{
+            "src": "assets/img/lujvitontika.jpg",
+            "alt": "Louis Vuitton Shoe"
+        },
+        "brojZvezdica": 4,
+        "besplatnaDostava": true,
+        "cena": {
+            "bezPopusta": 399.99,
+            "saPopustom": 399.99
+        },
+        "popust": false
+
+    },
+    {
+        "id": 5,
+        "naziv": "Table Lamp",
+        "kategorija": 4,
+        "deskripcija": "To make your table feel like home.",
+        "slika":{
+            "src": "assets/img/kucnalampa.jpg",
+            "alt": "Table Lamp"
+        },
+        "brojZvezdica": 5,
+        "besplatnaDostava": true,
+        "cena": {
+            "bezPopusta": 39.99,
+            "saPopustom": 39.99
+        },
+        "popust": false
+
+    },
+    {
+        "id": 6,
+        "naziv": "Curology Cosmetic Item",
+        "kategorija": 6,
+        "deskripcija": "Cleans the face from wrinkles and unwanted acne.",
+        "slika":{
+            "src": "assets/img/banner_img_02.jpg",
+            "alt": "Curology Cosmetic Item"
+        },
+        "brojZvezdica": 1,
+        "besplatnaDostava": false,
+        "cena": {
+            "bezPopusta": 799.99,
+            "saPopustom": 119.99
+        },
+        "popust": true
+
+    },
+    {
+        "id": 7,
+        "naziv": "Pocket Flashlight",
+        "kategorija": 4,
+        "deskripcija": "Because who doesnt need a lamp at home..",
+        "slika":{
+            "src": "assets/img/CasioTimepiece.jpg",
+            "alt": "Casio Digital Timepiece"
+        },
+        "brojZvezdica": 3,
+        "besplatnaDostava": true,
+        "cena": {
+            "bezPopusta": 249.99,
+            "saPopustom": 179.99
+        },
+        "popust": true
+
+    }
+]
